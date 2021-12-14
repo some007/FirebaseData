@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540655870737",
+    "project_id": "fir-data-c2740",
+    "storage_bucket": "fir-data-c2740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540655870737:android:e8d3ed7ef9c4f8069a62b0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540655870737-vhf9ijheafluutc0jo0gkatje47rpnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFabgfMSIEZ82f0KCThR6RMqhHgSksJ5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540655870737-vhf9ijheafluutc0jo0gkatje47rpnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
